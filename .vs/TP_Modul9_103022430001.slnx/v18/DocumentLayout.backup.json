@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F8C62F-9AF4-47FD-9849-04F467198C3A}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul9_103022430001\\tp_modul9_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F8C62F-9AF4-47FD-9849-04F467198C3A}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|solutionrelative:tp_modul9_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul9_103022430001\\tp_modul9_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|solutionrelative:tp_modul9_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul9_103022430001\\tp_modul9_103022430001\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|solutionrelative:tp_modul9_103022430001\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul9_103022430001\\tp_modul9_103022430001\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF723C07-5A12-94CB-29DA-2104D38C5574}|TP_Modul9_103022430001\\TP_Modul9_103022430001.csproj|solutionrelative:tp_modul9_103022430001\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\TP_Modul9_103022430001\\covid_config.json",
+              "RelativeDocumentMoniker": "TP_Modul9_103022430001\\covid_config.json",
+              "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\TP_Modul9_103022430001\\covid_config.json",
+              "RelativeToolTip": "TP_Modul9_103022430001\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T02:54:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\TP_Modul9_103022430001\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_Modul9_103022430001\\CovidConfig.cs",
+              "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\TP_Modul9_103022430001\\CovidConfig.cs",
+              "RelativeToolTip": "TP_Modul9_103022430001\\CovidConfig.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:53:38.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "TP_Modul9_103022430001\\Program.cs",
               "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_Modul9_103022430001\\TP_Modul9_103022430001\\Program.cs",
               "RelativeToolTip": "TP_Modul9_103022430001\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T13:16:20.037Z",
               "EditorCaption": ""
